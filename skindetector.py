@@ -14,16 +14,17 @@ def draw_circle(event,x,y,flags,param):
         mouseX,mouseY = x,y
         cv2.imwrite("screen.png", frame)
         image = cv2.imread("screen.png")
-        color = image[x, y]
+        color = image[y, x]
         print("My color is " + format(color))
     if event == cv2.EVENT_RBUTTONDBLCLK:
         mouseX,mouseY = x,y
         cv2.imwrite("screen2.png", frame)
         image = cv2.imread("screen2.png")
-        color_clicked = image[x, y]
+        color_clicked = image[y, x]
         print("Color clicked is " + format(color_clicked))
         if color_clicked[2] < (color[2] + 40) and color_clicked[2] > (color[2] - 40) and color_clicked[1] < (color[1] + 50) and color_clicked[1] > (color[1] - 50) and color_clicked[0] < (color[0] + 80) and color_clicked[0] > (color[0] - 80):
             print("Skin detected")
+
 
 # construct the argument parse and parse the arguments
 ap = argparse.ArgumentParser()
