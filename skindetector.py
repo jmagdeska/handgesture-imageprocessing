@@ -1,8 +1,3 @@
-# USAGE
-# python skindetector.py
-# python skindetector.py --video video/skin_example.mov
-
-# import the necessary packages
 from pyimagesearch import imutils
 import numpy as np
 import argparse
