@@ -52,8 +52,9 @@ for l in range(10):
         for a in range(225):
             for b in range(400):
                 color_clicked = initial[a,b]
-                if color_clicked[2] < (color[2] + 40) and color_clicked[2] > (color[2] - 40) and color_clicked[1] < (color[1] + 50) and color_clicked[1] > (color[1] - 50) and color_clicked[0] < (color[0] + 80) and color_clicked[0] > (color[0] - 80):
+                if color_clicked[2] < (color[2] + 40) and color_clicked[2] > (color[2] - 40) and color_clicked[1] < (color[1] + 60) and color_clicked[1] > (color[1] - 60) and color_clicked[0] < (color[0] + 80) and color_clicked[0] > (color[0] - 80) and color_clicked[0] < 230 and color_clicked[1] < 240 and color_clicked[2] > 210:
                     blank_image[a,b] = initial[a,b]
         cv2.imwrite("frames_skin/" + letters[l] + format(i) + ".png", blank_image)
 
 
+print("Done with processing")
