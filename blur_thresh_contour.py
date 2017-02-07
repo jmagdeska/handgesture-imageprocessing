@@ -49,5 +49,4 @@ for i in range(10):
             else:
                 cX, cY = 0, 0
 
-
 print "Done with processing the images"
