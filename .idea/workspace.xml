@@ -5,1523 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4898ac00-dd77-4187-a832-8355484b26ff" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_a-1-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_a-1-10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_a-1-11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_a-1-12.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_a-1-13.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_a-1-14.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_a-1-15.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_a-1-16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_a-1-17.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_a-1-18.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_a-1-19.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_a-1-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_a-1-20.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_a-1-21.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_a-1-22.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_a-1-23.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_a-1-24.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_a-1-25.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_a-1-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_a-1-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_a-1-5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_a-1-6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_a-1-7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_a-1-8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_a-1-9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_a-4-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_a-4-10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_a-4-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_a-4-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_a-4-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_a-4-5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_a-4-6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_a-4-7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_a-4-8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_a-4-9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_a1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_a10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_a11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_a12.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_a13.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_a14.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_a15.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_a16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_a17.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_a18.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_a19.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_a2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_a20.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_a21.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_a22.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_a23.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_a24.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_a25.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_a3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_a4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_a5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_a6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_a7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_a8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_a9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_b-1-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_b-1-10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_b-1-11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_b-1-12.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_b-1-13.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_b-1-14.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_b-1-15.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_b-1-16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_b-1-17.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_b-1-18.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_b-1-19.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_b-1-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_b-1-20.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_b-1-21.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_b-1-22.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_b-1-23.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_b-1-24.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_b-1-25.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_b-1-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_b-1-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_b-1-5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_b-1-6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_b-1-7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_b-1-8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_b-1-9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_b-4-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_b-4-10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_b-4-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_b-4-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_b-4-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_b-4-5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_b-4-6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_b-4-7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_b-4-8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_b-4-9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_b1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_b10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_b11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_b12.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_b13.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_b14.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_b15.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_b16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_b17.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_b18.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_b19.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_b2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_b20.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_b21.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_b22.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_b23.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_b24.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_b25.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_b3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_b4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_b5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_b6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_b7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_b8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_b9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_f-1-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_f-1-10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_f-1-11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_f-1-12.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_f-1-13.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_f-1-14.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_f-1-15.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_f-1-16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_f-1-17.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_f-1-18.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_f-1-19.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_f-1-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_f-1-20.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_f-1-21.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_f-1-22.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_f-1-23.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_f-1-24.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_f-1-25.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_f-1-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_f-1-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_f-1-5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_f-1-6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_f-1-7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_f-1-8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_f-1-9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_f-4-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_f-4-10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_f-4-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_f-4-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_f-4-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_f-4-5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_f-4-6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_f-4-7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_f-4-8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_f-4-9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_f1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_f10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_f11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_f12.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_f13.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_f14.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_f15.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_f16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_f17.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_f18.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_f19.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_f2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_f20.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_f21.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_f22.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_f23.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_f24.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_f25.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_f3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_f4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_f5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_f6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_f7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_f8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_f9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_i-1-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_i-1-10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_i-1-11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_i-1-12.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_i-1-13.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_i-1-14.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_i-1-15.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_i-1-16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_i-1-17.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_i-1-18.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_i-1-19.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_i-1-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_i-1-20.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_i-1-21.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_i-1-22.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_i-1-23.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_i-1-24.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_i-1-25.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_i-1-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_i-1-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_i-1-5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_i-1-6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_i-1-7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_i-1-8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_i-1-9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_i-4-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_i-4-10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_i-4-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_i-4-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_i-4-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_i-4-5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_i-4-6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_i-4-7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_i-4-8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_i-4-9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_i1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_i10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_i11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_i12.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_i13.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_i14.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_i15.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_i16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_i17.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_i18.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_i19.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_i2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_i20.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_i21.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_i22.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_i23.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_i24.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_i25.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_i3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_i4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_i5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_i6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_i7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_i8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_i9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_l-1-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_l-1-10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_l-1-11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_l-1-12.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_l-1-13.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_l-1-14.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_l-1-15.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_l-1-16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_l-1-17.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_l-1-18.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_l-1-19.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_l-1-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_l-1-20.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_l-1-21.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_l-1-22.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_l-1-23.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_l-1-24.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_l-1-25.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_l-1-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_l-1-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_l-1-5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_l-1-6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_l-1-7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_l-1-8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_l-1-9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_l-4-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_l-4-10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_l-4-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_l-4-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_l-4-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_l-4-5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_l-4-6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_l-4-7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_l-4-8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_l-4-9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_l1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_l10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_l11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_l12.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_l13.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_l14.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_l15.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_l16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_l17.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_l18.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_l19.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_l2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_l20.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_l21.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_l22.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_l23.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_l24.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_l25.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_l3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_l4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_l5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_l6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_l7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_l8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_l9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_m-1-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_m-1-10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_m-1-11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_m-1-12.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_m-1-13.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_m-1-14.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_m-1-15.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_m-1-16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_m-1-17.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_m-1-18.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_m-1-19.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_m-1-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_m-1-20.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_m-1-21.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_m-1-22.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_m-1-23.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_m-1-24.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_m-1-25.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_m-1-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_m-1-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_m-1-5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_m-1-6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_m-1-7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_m-1-8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_m-1-9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_m-4-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_m-4-10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_m-4-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_m-4-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_m-4-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_m-4-5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_m-4-6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_m-4-7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_m-4-8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_m-4-9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_m1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_m10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_m11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_m12.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_m13.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_m14.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_m15.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_m16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_m17.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_m18.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_m19.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_m2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_m20.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_m21.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_m22.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_m23.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_m24.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_m25.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_m3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_m4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_m5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_m6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_m7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_m8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_m9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_o-1-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_o-1-10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_o-1-11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_o-1-12.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_o-1-13.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_o-1-14.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_o-1-15.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_o-1-16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_o-1-17.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_o-1-18.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_o-1-19.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_o-1-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_o-1-20.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_o-1-21.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_o-1-22.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_o-1-23.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_o-1-24.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_o-1-25.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_o-1-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_o-1-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_o-1-5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_o-1-6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_o-1-7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_o-1-8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_o-1-9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_o-4-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_o-4-10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_o-4-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_o-4-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_o-4-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_o-4-5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_o-4-6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_o-4-7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_o-4-8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_o-4-9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_o1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_o10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_o11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_o12.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_o13.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_o14.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_o15.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_o16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_o17.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_o18.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_o19.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_o2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_o20.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_o21.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_o22.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_o23.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_o24.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_o25.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_o3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_o4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_o5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_o6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_o7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_o8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_o9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_t-1-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_t-1-10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_t-1-11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_t-1-12.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_t-1-13.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_t-1-14.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_t-1-15.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_t-1-16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_t-1-17.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_t-1-18.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_t-1-19.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_t-1-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_t-1-20.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_t-1-21.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_t-1-22.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_t-1-23.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_t-1-24.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_t-1-25.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_t-1-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_t-1-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_t-1-5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_t-1-6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_t-1-7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_t-1-8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_t-1-9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_t-4-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_t-4-10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_t-4-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_t-4-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_t-4-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_t-4-5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_t-4-6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_t-4-7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_t-4-8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_t-4-9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_t1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_t10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_t11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_t12.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_t13.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_t14.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_t15.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_t16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_t17.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_t18.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_t19.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_t2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_t20.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_t21.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_t22.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_t23.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_t24.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_t25.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_t3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_t4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_t5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_t6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_t7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_t8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_t9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_u-1-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_u-1-10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_u-1-11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_u-1-12.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_u-1-13.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_u-1-14.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_u-1-15.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_u-1-16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_u-1-17.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_u-1-18.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_u-1-19.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_u-1-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_u-1-20.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_u-1-21.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_u-1-22.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_u-1-23.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_u-1-24.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_u-1-25.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_u-1-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_u-1-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_u-1-5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_u-1-6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_u-1-7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_u-1-8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_u-1-9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_u-4-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_u-4-10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_u-4-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_u-4-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_u-4-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_u-4-5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_u-4-6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_u-4-7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_u-4-8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_u-4-9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_u1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_u10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_u11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_u12.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_u13.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_u14.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_u15.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_u16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_u17.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_u18.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_u19.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_u2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_u20.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_u21.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_u22.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_u23.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_u24.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_u25.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_u3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_u4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_u5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_u6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_u7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_u8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_u9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_z-1-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_z-1-10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_z-1-11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_z-1-12.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_z-1-13.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_z-1-14.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_z-1-15.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_z-1-16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_z-1-17.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_z-1-18.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_z-1-19.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_z-1-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_z-1-20.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_z-1-21.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_z-1-22.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_z-1-23.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_z-1-24.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_z-1-25.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_z-1-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_z-1-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_z-1-5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_z-1-6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_z-1-7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_z-1-8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_z-1-9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_z-4-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_z-4-10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_z-4-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_z-4-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_z-4-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_z-4-5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_z-4-6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_z-4-7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_z-4-8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_z-4-9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_z1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_z10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_z11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_z12.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_z13.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_z14.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_z15.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_z16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_z17.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_z18.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_z19.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_z2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_z20.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_z21.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_z22.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_z23.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_z24.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_z25.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_z3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_z4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_z5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_z6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_z7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_z8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames/initial_z9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_initials/initial_a-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_initials/initial_a.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_initials/initial_b-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_initials/initial_b.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_initials/initial_f-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_initials/initial_f.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_initials/initial_i-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_initials/initial_i.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_initials/initial_l-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_initials/initial_l.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_initials/initial_m-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_initials/initial_m.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_initials/initial_o-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_initials/initial_o.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_initials/initial_t-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_initials/initial_t.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_initials/initial_u-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_initials/initial_u.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_initials/initial_z-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_initials/initial_z.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/a-1-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/a-1-10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/a-1-11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/a-1-12.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/a-1-13.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/a-1-14.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/a-1-15.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/a-1-16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/a-1-17.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/a-1-18.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/a-1-19.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/a-1-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/a-1-20.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/a-1-21.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/a-1-22.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/a-1-23.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/a-1-24.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/a-1-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/a-1-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/a-1-5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/a-1-6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/a-1-7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/a-1-8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/a-1-9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/a1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/a10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/a11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/a12.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/a13.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/a14.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/a15.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/a16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/a17.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/a18.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/a19.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/a2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/a20.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/a21.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/a22.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/a23.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/a24.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/a3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/a4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/a5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/a6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/a7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/a8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/a9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/b-1-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/b-1-10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/b-1-11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/b-1-12.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/b-1-13.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/b-1-14.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/b-1-15.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/b-1-16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/b-1-17.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/b-1-18.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/b-1-19.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/b-1-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/b-1-20.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/b-1-21.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/b-1-22.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/b-1-23.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/b-1-24.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/b-1-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/b-1-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/b-1-5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/b-1-6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/b-1-7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/b-1-8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/b-1-9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/b1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/b10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/b11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/b12.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/b13.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/b14.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/b15.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/b16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/b17.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/b18.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/b19.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/b2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/b20.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/b21.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/b22.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/b23.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/b24.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/b3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/b4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/b5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/b6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/b7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/b8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/b9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/f-1-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/f-1-10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/f-1-11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/f-1-12.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/f-1-13.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/f-1-14.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/f-1-15.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/f-1-16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/f-1-17.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/f-1-18.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/f-1-19.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/f-1-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/f-1-20.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/f-1-21.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/f-1-22.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/f-1-23.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/f-1-24.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/f-1-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/f-1-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/f-1-5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/f-1-6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/f-1-7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/f-1-8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/f-1-9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/f1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/f10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/f11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/f12.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/f13.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/f14.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/f15.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/f16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/f17.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/f18.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/f19.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/f2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/f20.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/f21.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/f22.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/f23.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/f24.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/f3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/f4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/f5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/f6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/f7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/f8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/f9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/i-1-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/i-1-10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/i-1-11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/i-1-12.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/i-1-13.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/i-1-14.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/i-1-15.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/i-1-16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/i-1-17.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/i-1-18.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/i-1-19.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/i-1-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/i-1-20.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/i-1-21.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/i-1-22.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/i-1-23.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/i-1-24.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/i-1-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/i-1-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/i-1-5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/i-1-6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/i-1-7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/i-1-8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/i-1-9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/i1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/i10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/i11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/i12.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/i13.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/i14.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/i15.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/i16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/i17.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/i18.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/i19.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/i2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/i20.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/i21.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/i22.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/i23.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/i24.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/i3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/i4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/i5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/i6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/i7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/i8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/i9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/l-1-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/l-1-10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/l-1-11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/l-1-12.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/l-1-13.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/l-1-14.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/l-1-15.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/l-1-16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/l-1-17.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/l-1-18.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/l-1-19.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/l-1-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/l-1-20.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/l-1-21.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/l-1-22.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/l-1-23.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/l-1-24.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/l-1-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/l-1-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/l-1-5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/l-1-6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/l-1-7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/l-1-8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/l-1-9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/l1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/l10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/l11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/l12.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/l13.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/l14.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/l15.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/l16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/l17.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/l18.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/l19.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/l2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/l20.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/l21.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/l22.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/l23.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/l24.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/l3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/l4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/l5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/l6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/l7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/l8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/l9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/m-1-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/m-1-10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/m-1-11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/m-1-12.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/m-1-13.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/m-1-14.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/m-1-15.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/m-1-16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/m-1-17.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/m-1-18.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/m-1-19.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/m-1-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/m-1-20.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/m-1-21.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/m-1-22.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/m-1-23.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/m-1-24.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/m-1-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/m-1-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/m-1-5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/m-1-6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/m-1-7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/m-1-8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/m-1-9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/m1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/m10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/m11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/m12.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/m13.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/m14.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/m15.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/m16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/m17.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/m18.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/m19.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/m2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/m20.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/m21.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/m22.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/m23.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/m24.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/m3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/m4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/m5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/m6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/m7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/m8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/m9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/o-1-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/o-1-10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/o-1-11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/o-1-12.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/o-1-13.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/o-1-14.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/o-1-15.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/o-1-16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/o-1-17.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/o-1-18.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/o-1-19.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/o-1-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/o-1-20.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/o-1-21.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/o-1-22.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/o-1-23.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/o-1-24.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/o-1-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/o-1-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/o-1-5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/o-1-6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/o-1-7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/o-1-8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/o-1-9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/o1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/o10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/o11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/o12.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/o13.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/o14.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/o15.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/o16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/o17.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/o18.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/o19.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/o2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/o20.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/o21.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/o22.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/o23.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/o24.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/o3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/o4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/o5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/o6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/o7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/o8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/o9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/t-1-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/t-1-10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/t-1-11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/t-1-12.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/t-1-13.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/t-1-14.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/t-1-15.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/t-1-16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/t-1-17.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/t-1-18.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/t-1-19.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/t-1-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/t-1-20.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/t-1-21.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/t-1-22.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/t-1-23.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/t-1-24.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/t-1-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/t-1-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/t-1-5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/t-1-6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/t-1-7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/t-1-8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/t-1-9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/t1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/t10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/t11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/t12.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/t13.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/t14.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/t15.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/t16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/t17.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/t18.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/t19.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/t2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/t20.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/t21.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/t22.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/t23.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/t24.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/t3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/t4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/t5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/t6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/t7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/t8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/t9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/u-1-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/u-1-10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/u-1-11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/u-1-12.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/u-1-13.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/u-1-14.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/u-1-15.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/u-1-16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/u-1-17.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/u-1-18.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/u-1-19.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/u-1-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/u-1-20.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/u-1-21.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/u-1-22.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/u-1-23.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/u-1-24.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/u-1-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/u-1-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/u-1-5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/u-1-6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/u-1-7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/u-1-8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/u-1-9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/u1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/u10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/u11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/u12.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/u13.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/u14.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/u15.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/u16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/u17.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/u18.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/u19.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/u2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/u20.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/u21.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/u22.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/u23.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/u24.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/u3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/u4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/u5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/u6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/u7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/u8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/u9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/z-1-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/z-1-10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/z-1-11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/z-1-12.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/z-1-13.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/z-1-14.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/z-1-15.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/z-1-16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/z-1-17.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/z-1-18.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/z-1-19.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/z-1-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/z-1-20.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/z-1-21.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/z-1-22.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/z-1-23.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/z-1-24.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/z-1-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/z-1-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/z-1-5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/z-1-6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/z-1-7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/z-1-8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/z-1-9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/z1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/z10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/z11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/z12.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/z13.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/z14.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/z15.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/z16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/z17.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/z18.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/z19.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/z2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/z20.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/z21.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/z22.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/z23.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/z24.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/z3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/z4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/z5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/z6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/z7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/z8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_skin/z9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/a-1-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/a-1-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/a-1-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/a-1-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/a-1-5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/a-1-6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/a-1-7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/a-1-8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/a-1-9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/a1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/a2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/a3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/a4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/a5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/a6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/a7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/a8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/a9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/b-1-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/b-1-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/b-1-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/b-1-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/b-1-5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/b-1-6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/b-1-7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/b-1-8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/b-1-9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/b1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/b2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/b3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/b4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/b5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/b6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/b7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/b8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/b9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/f-1-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/f-1-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/f-1-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/f-1-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/f-1-5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/f-1-6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/f-1-7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/f-1-8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/f-1-9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/f1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/f2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/f3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/f4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/f5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/f6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/f7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/f8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/f9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/i-1-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/i-1-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/i-1-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/i-1-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/i-1-5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/i-1-6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/i-1-7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/i-1-8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/i-1-9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/i1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/i2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/i3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/i4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/i5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/i6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/i7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/i8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/i9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/l-1-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/l-1-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/l-1-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/l-1-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/l-1-5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/l-1-6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/l-1-7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/l-1-8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/l-1-9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/l1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/l2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/l3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/l4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/l5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/l6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/l7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/l8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/l9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/m-1-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/m-1-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/m-1-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/m-1-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/m-1-5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/m-1-6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/m-1-7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/m-1-8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/m-1-9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/m1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/m2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/m3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/m4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/m5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/m6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/m7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/m8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/m9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/o-1-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/o-1-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/o-1-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/o-1-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/o-1-5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/o-1-6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/o-1-7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/o-1-8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/o-1-9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/o1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/o2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/o3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/o4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/o5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/o6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/o7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/o8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/o9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/t-1-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/t-1-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/t-1-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/t-1-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/t-1-5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/t-1-6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/t-1-7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/t-1-8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/t-1-9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/t1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/t2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/t3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/t4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/t5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/t6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/t7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/t8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/t9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/u-1-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/u-1-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/u-1-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/u-1-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/u-1-5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/u-1-6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/u-1-7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/u-1-8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/u-1-9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/u1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/u2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/u3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/u4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/u5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/u6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/u7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/u8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/u9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/z-1-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/z-1-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/z-1-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/z-1-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/z-1-5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/z-1-6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/z-1-7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/z-1-8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/z-1-9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/z1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/z2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/z3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/z4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/z5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/z6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/z7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/z8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh/z9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/a-1-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/a-1-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/a-1-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/a-1-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/a-1-5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/a-1-6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/a-1-7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/a-1-8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/a-1-9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/a1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/a2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/a3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/a4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/a5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/a6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/a7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/a8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/a9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/b-1-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/b-1-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/b-1-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/b-1-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/b-1-5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/b-1-6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/b-1-7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/b-1-8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/b-1-9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/b1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/b2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/b3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/b4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/b5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/b6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/b7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/b8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/b9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/f-1-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/f-1-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/f-1-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/f-1-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/f-1-5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/f-1-6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/f-1-7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/f-1-8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/f-1-9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/f1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/f2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/f3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/f4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/f5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/f6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/f7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/f8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/f9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/i-1-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/i-1-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/i-1-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/i-1-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/i-1-5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/i-1-6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/i-1-7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/i-1-8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/i-1-9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/i1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/i2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/i3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/i4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/i5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/i6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/i7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/i8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/i9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/l-1-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/l-1-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/l-1-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/l-1-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/l-1-5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/l-1-6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/l-1-7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/l-1-8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/l-1-9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/l1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/l2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/l3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/l4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/l5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/l6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/l7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/l8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/l9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/m-1-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/m-1-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/m-1-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/m-1-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/m-1-5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/m-1-6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/m-1-7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/m-1-8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/m-1-9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/m1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/m2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/m3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/m4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/m5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/m6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/m7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/m8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/m9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/o-1-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/o-1-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/o-1-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/o-1-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/o-1-5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/o-1-6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/o-1-7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/o-1-8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/o-1-9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/o1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/o2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/o3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/o4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/o5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/o6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/o7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/o8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/o9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/t-1-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/t-1-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/t-1-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/t-1-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/t-1-5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/t-1-6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/t-1-7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/t-1-8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/t-1-9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/t1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/t2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/t3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/t4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/t5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/t6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/t7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/t8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/t9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/u-1-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/u-1-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/u-1-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/u-1-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/u-1-5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/u-1-6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/u-1-7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/u-1-8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/u-1-9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/u1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/u2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/u3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/u4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/u5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/u6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/u7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/u8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/u9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/z-1-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/z-1-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/z-1-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/z-1-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/z-1-5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/z-1-6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/z-1-7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/z-1-8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/z-1-9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/z1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/z2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/z3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/z4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/z5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/z6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/z7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/z8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frames_thresh_center/z9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/videos/gesture-a-1.avi" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/videos/gesture-a-2.avi" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/videos/gesture-a-3.avi" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/videos/gesture-a-4.avi" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/videos/gesture-a.avi" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/videos/gesture-b-1.avi" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/videos/gesture-b-2.avi" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/videos/gesture-b-3.avi" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/videos/gesture-b-4.avi" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/videos/gesture-b.avi" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/videos/gesture-f-1.avi" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/videos/gesture-f-2.avi" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/videos/gesture-f-3.avi" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/videos/gesture-f-4.avi" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/videos/gesture-f.avi" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/videos/gesture-i-1.avi" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/videos/gesture-i-2.avi" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/videos/gesture-i-3.avi" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/videos/gesture-i-4.avi" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/videos/gesture-i.avi" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/videos/gesture-l-1.avi" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/videos/gesture-l-2.avi" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/videos/gesture-l-3.avi" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/videos/gesture-l-4.avi" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/videos/gesture-l.avi" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/videos/gesture-m-1.avi" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/videos/gesture-m-2.avi" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/videos/gesture-m-3.avi" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/videos/gesture-m-4.avi" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/videos/gesture-m.avi" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/videos/gesture-o-1.avi" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/videos/gesture-o-2.avi" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/videos/gesture-o-3.avi" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/videos/gesture-o-4.avi" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/videos/gesture-o.avi" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/videos/gesture-t-1.avi" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/videos/gesture-t-2.avi" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/videos/gesture-t-3.avi" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/videos/gesture-t-4.avi" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/videos/gesture-t.avi" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/videos/gesture-u-1.avi" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/videos/gesture-u-2.avi" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/videos/gesture-u-3.avi" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/videos/gesture-u-4.avi" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/videos/gesture-u.avi" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/videos/gesture-z-1.avi" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/videos/gesture-z-2.avi" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/videos/gesture-z-3.avi" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/videos/gesture-z-4.avi" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/videos/gesture-z.avi" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extract_frames.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/skindetector.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/detect_skin_video.py" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/skin-detection.iml" afterPath="$PROJECT_DIR$/.idea/skin-detection.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blur_thresh_contour.py" afterPath="$PROJECT_DIR$/blur_thresh_contour.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/detect_skin_video.py" afterPath="$PROJECT_DIR$/detect_skin_video.py" />
     </list>
     <ignored path="skin-detection.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -1545,17 +33,16 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="skin-detection" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="detect_skin_video.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/detect_skin_video.py">
+      <file leaf-file-name="detect_skin_from_video.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/detect_skin_from_video.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret line="49" column="47" lean-forward="true" selection-start-line="49" selection-start-column="47" selection-end-line="49" selection-end-column="47" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
                 <element signature="e#0#33#0" expanded="true" />
               </folding>
@@ -1563,13 +50,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="blur_thresh_contour.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/blur_thresh_contour.py">
+      <file leaf-file-name="record_video.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/record_video.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="27" column="22" lean-forward="true" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+            <state relative-caret-position="119">
+              <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
               <folding>
-                <element signature="e#0#10#0" expanded="true" />
+                <element signature="e#0#18#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -1606,7 +93,7 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-1" />
     <option name="y" value="25" />
     <option name="width" value="1368" />
@@ -1631,16 +118,13 @@
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="skin-detection" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="skin-detection" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
+          <expand>
+            <path>
+              <item name="skin-detection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="handgesture-imageprocessing" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
         </subPane>
       </pane>
     </panes>
@@ -1661,97 +145,19 @@
       <recent name="C:\Users\Jana\PycharmProjects\skin-detection\videos" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.blur_thresh_contour (1)">
-    <configuration default="false" name="detect_skin_video" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="skin-detection" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\Jana\PycharmProjects\skin-detection\detect_skin_video.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="background" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="skin-detection" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/background.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="blur_thresh_contour" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="skin-detection" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\Jana\PycharmProjects\skin-detection\blur_thresh_contour.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="detect_skin_video (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="skin-detection" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/detect_skin_video.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="blur_thresh_contour (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="skin-detection" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/blur_thresh_contour.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.record_video">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -1768,7 +174,7 @@
       <option name="SCRIPT_NAME" value="" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
+      <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <configuration default="true" type="Tox" factoryName="Tox">
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -1892,20 +298,110 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
+    <configuration name="blur_thresh_contour (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="skin-detection" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/blur_thresh_contour.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="blur_thresh_contour" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="skin-detection" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Jana\PycharmProjects\skin-detection\blur_thresh_contour.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="detect_skin_video (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="skin-detection" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/detect_skin_video.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="detect_skin_video" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="skin-detection" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Jana\PycharmProjects\skin-detection\detect_skin_video.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="record_video" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="skin-detection" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/record_video.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.detect_skin_video" />
-      <item index="1" class="java.lang.String" itemvalue="Python.background" />
-      <item index="2" class="java.lang.String" itemvalue="Python.blur_thresh_contour" />
-      <item index="3" class="java.lang.String" itemvalue="Python.detect_skin_video (1)" />
-      <item index="4" class="java.lang.String" itemvalue="Python.blur_thresh_contour (1)" />
+      <item index="1" class="java.lang.String" itemvalue="Python.blur_thresh_contour" />
+      <item index="2" class="java.lang.String" itemvalue="Python.detect_skin_video (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Python.blur_thresh_contour (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Python.record_video" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.blur_thresh_contour (1)" />
-        <item index="1" class="java.lang.String" itemvalue="Python.detect_skin_video (1)" />
-        <item index="2" class="java.lang.String" itemvalue="Python.blur_thresh_contour" />
-        <item index="3" class="java.lang.String" itemvalue="Python.detect_skin_video" />
-        <item index="4" class="java.lang.String" itemvalue="Python.background" />
+        <item index="0" class="java.lang.String" itemvalue="Python.record_video" />
+        <item index="1" class="java.lang.String" itemvalue="Python.blur_thresh_contour (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Python.detect_skin_video (1)" />
+        <item index="3" class="java.lang.String" itemvalue="Python.blur_thresh_contour" />
+        <item index="4" class="java.lang.String" itemvalue="Python.detect_skin_video" />
       </list>
     </recent_temporary>
   </component>
@@ -1935,25 +431,26 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="25" width="1368" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16837482" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16868381" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32879046" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32764506" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23076923" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32764506" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23225807" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935154" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935154" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935154" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32764506" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -1991,16 +488,17 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/detect_skin_video.py">
+    <entry file="file://$PROJECT_DIR$/blur_thresh_contour.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#33#0" expanded="true" />
+            <element signature="e#0#10#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/detect_skin_video.py" />
     <entry file="file://$PROJECT_DIR$/blur_thresh_contour.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -2011,16 +509,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/detect_skin_video.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#33#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/detect_skin_video.py" />
     <entry file="file://$PROJECT_DIR$/blur_thresh_contour.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -2031,16 +520,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/detect_skin_video.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="26" column="17" lean-forward="false" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#33#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/detect_skin_video.py" />
     <entry file="file://$PROJECT_DIR$/blur_thresh_contour.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -2051,16 +531,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/detect_skin_video.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="19" column="28" lean-forward="false" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="73" />
-          <folding>
-            <element signature="e#0#33#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/detect_skin_video.py" />
     <entry file="file://$PROJECT_DIR$/blur_thresh_contour.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -2071,26 +542,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/detect_skin_video.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#33#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/detect_skin_video.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="52" column="32" lean-forward="false" selection-start-line="52" selection-start-column="32" selection-end-line="52" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#33#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/detect_skin_video.py" />
+    <entry file="file://$PROJECT_DIR$/detect_skin_video.py" />
     <entry file="file://$PROJECT_DIR$/pyimagesearch/imutils.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -2098,38 +551,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/detect_skin_video.py">
+    <entry file="file://$PROJECT_DIR$/detect_skin_video.py" />
+    <entry file="file://$PROJECT_DIR$/extract_frames.py" />
+    <entry file="file://$PROJECT_DIR$/skindetector.py" />
+    <entry file="file://$PROJECT_DIR$/blur_thresh_contour.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="49" column="47" lean-forward="true" selection-start-line="49" selection-start-column="47" selection-end-line="49" selection-end-column="47" />
+        <state relative-caret-position="15">
+          <caret line="12" column="21" lean-forward="false" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/detect_skin_from_video.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#33#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/extract_frames.py">
+    <entry file="file://$PROJECT_DIR$/record_video.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/skindetector.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="41" lean-forward="false" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blur_thresh_contour.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="27" column="22" lean-forward="true" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+        <state relative-caret-position="119">
+          <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
           <folding>
-            <element signature="e#0#10#0" expanded="true" />
+            <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>

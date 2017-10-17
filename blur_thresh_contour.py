@@ -4,11 +4,13 @@ import numpy as np
 
 w_max=400
 h_max=225
-letters = ["a", "b", "f", "i", "l", "m", "o", "t", "u", "z"]
 
-for i in range(10):
+# letters = ["a", "b", "f", "i", "l", "m", "o", "t", "u", "z"]
+letters = ["a", "b", "f", "l", "m", "o", "t", "u", "z"]
+
+for i in range(9):
     for j in range(1,10):
-        single = cv2.imread('C:\Users\Jana\PyCharmProjects\skin-detection/frames_skin/' +letters[i] + "-1-" + format(j) + '.png')
+        single = cv2.imread("C:\Users\Jana\Desktop\Thesis/frames_skin/" +letters[i] + "-1-" + format(j) + '.png')
         kernel = np.ones((5, 5), np.uint8)
         mor = cv2.morphologyEx(single, cv2.MORPH_OPEN, kernel)
         mor2 = cv2.dilate(mor, kernel, iterations=1)
@@ -18,7 +20,7 @@ for i in range(10):
         _, thresh1 = cv2.threshold(blurred1, 127, 255,
                                    cv2.THRESH_BINARY + cv2.THRESH_OTSU)
 
-        cv2.imwrite("frames_thresh/" + letters[i] + "-1-" + format(j) + ".png", thresh1)
+        cv2.imwrite("C:\Users\Jana\Desktop\Thesis/frames_thresh/" + letters[i] + "-1-" + format(j) + ".png", thresh1)
 
         cnts = cv2.findContours(thresh1.copy(), cv2.RETR_EXTERNAL,
                                 cv2.CHAIN_APPROX_SIMPLE)
@@ -50,7 +52,7 @@ for i in range(10):
                 black[h_max/2 - h/2 - offset_h: h_max/2 + h/2, w_max/2 - w/2 - offset_w: w_max/2 + w/2] = thresh1[y:y+h, x:x+w]
                 # cv2.imshow("Cropped gesture",thresh1[y:y+h, x:x+w])
                 # cv2.waitKey(0)
-                cv2.imwrite("frames_thresh_center/" + letters[i] + "-1-" + format(j) + ".png", black)
+                cv2.imwrite("C:\Users\Jana\Desktop/Thesis/frames_thresh_center/" + letters[i] + "-1-" + format(j) + ".png", black)
 
             else:
                 cX, cY = 0, 0
