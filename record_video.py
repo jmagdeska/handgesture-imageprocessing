@@ -3,6 +3,8 @@ import cv2
 
 cap = cv2.VideoCapture(0)
 
+letters = ["a", "b", "v", "g", "d", "gj", "e", "zh", "z", "dj", "i", "j", "k", "l", "lj", "m", "n", "nj", "o", "p", "r", "s", "t", "kj", "u", "f", "h", "c", "ch", "dz", "sh"]
+
 # Define the codec and create VideoWriter object
 #fourcc = cv2.cv.CV_FOURCC(*'DIVX')
 #out = cv2.VideoWriter('output.avi',fourcc, 20.0, (640,480))
@@ -35,7 +37,6 @@ while(cap.isOpened()):
                         break
                 else:
                     break
-
     else:
         break
 

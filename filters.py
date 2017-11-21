@@ -1,18 +1,28 @@
 import cv2
 import imutils
 import numpy as np
+import os
 from scipy import ndimage
 
 w_max=400
 h_max=250
 
+letters = ["a", "b", "v", "g", "d", "gj", "e", "zh", "z", "dj", "i", "j", "k", "l", "lj", "m", "n", "nj", "o", "p", "r", "s", "t", "kj", "u", "f", "h", "c", "ch", "dz", "sh"]
 
-letters = ["a", "b", "c", "ch", "d", "dj", "dz", "e", "f", "g", "gj", "h", "i", "j", "k", "kj", "l", "lj", "m", "n",
-           "nj", "o", "p", "r", "s", "sh", "t", "u", "v", "z", "zh"]
+folder = input("Enter which dataset will be processed: ")
+
+dir_thresh = "frames_thresh_as/" + str(folder) + "/"
+dir_center = "frames_thresh_center_as/" + str(folder) + "/"
+dir_skin = "frames_skin/" + str(folder) + "/"
+
+if not os.path.exists(dir_thresh):
+    os.makedirs(dir_thresh)
+if not os.path.exists(dir_center):
+    os.makedirs(dir_center)
 
 for i in range(31):
-    for j in range(1,10):
-        single = cv2.imread("C:\Users\Kosara\Documents\DIPLOMA THESIS\handgesture-imageprocessing-master/frames skin/" +letters[i] + "-1-" + format(j) + '.png',0)
+    for j in range(1,9):
+        single = cv2.imread(dir_skin + letters[i] + "-1-" + format(j) + '.png',0)
         result = cv2.Sobel(single, cv2.CV_64F, 1, 0, ksize=5)
         result1 = cv2.Sobel(result, cv2.CV_64F, 0, 1, ksize=5)
         abs_result = np.absolute(result1)
@@ -25,7 +35,7 @@ for i in range(31):
         _, thresh1 = cv2.threshold(blurred1, 127, 255,
                                    cv2.THRESH_BINARY + cv2.THRESH_OTSU)
 
-        cv2.imwrite("C:\Users\Kosara\Documents\DIPLOMA THESIS\handgesture-imageprocessing-master/frames thresh as/" + letters[i] + "-1-" + format(j) + ".png", thresh1)
+        cv2.imwrite(dir_thresh + letters[i] + "-1-" + format(j) + ".png", thresh1)
 
         cnts = cv2.findContours(thresh1.copy(), cv2.RETR_EXTERNAL,
                                 cv2.CHAIN_APPROX_SIMPLE)
@@ -57,7 +67,7 @@ for i in range(31):
                 black[h_max/2 - h/2 - offset_h: h_max/2 + h/2, w_max/2 - w/2 - offset_w: w_max/2 + w/2] = thresh1[y:y+h, x:x+w]
                 # cv2.imshow("Cropped gesture",thresh1[y:y+h, x:x+w])
                 # cv2.waitKey(0)
-                cv2.imwrite("C:\Users\Kosara\Documents\DIPLOMA THESIS\handgesture-imageprocessing-master/frames thresh center as/" + letters[i] + "-1-" + format(j) + ".png", black)
+                cv2.imwrite(dir_center + letters[i] + "-1-" + format(j) + ".png", black)
 
             else:
                 cX, cY = 0, 0
