@@ -21,7 +21,7 @@ if not os.path.exists(dir_center):
     os.makedirs(dir_center)
 
 for i in range(31):
-    for j in range(1,9):
+    for j in range(1,21):
         single = cv2.imread(dir_skin + letters[i] + "-1-" + format(j) + '.png',0)
         result = cv2.Sobel(single, cv2.CV_64F, 1, 0, ksize=5)
         result1 = cv2.Sobel(result, cv2.CV_64F, 0, 1, ksize=5)
