@@ -5,7 +5,7 @@ import os
 from scipy import ndimage
 
 w_max=400
-h_max=250
+h_max=300
 
 letters = ["a", "b", "v", "g", "d", "gj", "e", "zh", "z", "dj", "i", "j", "k", "l", "lj", "m", "n", "nj", "o", "p", "r", "s", "t", "kj", "u", "f", "h", "c", "ch", "dz", "sh"]
 
@@ -28,6 +28,13 @@ for i in range(31):
         abs_result = np.absolute(result1)
         final_result = np.uint8(abs_result)
         blurred1 = cv2.GaussianBlur(final_result, (5, 5), 0)
+        # kernel = np.ones((5, 5), np.uint8)
+        # mor = cv2.morphologyEx(single, cv2.MORPH_OPEN, kernel)
+        # mor2 = cv2.dilate(mor, kernel, iterations=1)
+        # mor3 = cv2.morphologyEx(mor2, cv2.MORPH_CLOSE, kernel)
+        # grey1 = cv2.cvtColor(mor3, cv2.COLOR_BGR2GRAY)
+        # blurred1 = cv2.GaussianBlur(grey1, (5, 5), 0)
+
         # cv2.imwrite(
         #     "C:\Users\Kosara\Documents\DIPLOMA THESIS\handgesture-imageprocessing-master/frames sobel/" + letters[
         #         i] + "-1-" + format(j) + ".png", final_result)
@@ -46,7 +53,8 @@ for i in range(31):
             # compute the center of the contour
             M = cv2.moments(c)
 
-            if M["m00"] > 5000:
+            if M["m00"] > 4500:
+
                 cX = int(M["m10"] / M["m00"])
                 cY = int(M["m01"] / M["m00"])
 
@@ -62,12 +70,15 @@ for i in range(31):
                 if(h%2 != 0): offset_h = 1
                 if(w%2 != 0): offset_w = 1
 
-                print format(h_max/2) + " " + format(h/2) + " " + format(w_max/2) + " " + format(w/2) + "   " +format(letters[i])
+                print format(h_max/2) + " " + format(h/2) + " " + format(w_max/2) + " " + format(w/2) + "   " + format(letters[i])
 
-                black[h_max/2 - h/2 - offset_h: h_max/2 + h/2, w_max/2 - w/2 - offset_w: w_max/2 + w/2] = thresh1[y:y+h, x:x+w]
+                img_crop = thresh1[y:y+h, x:x+w]
+                img_resize = cv2.resize(img_crop, (100,100))
+                black[h_max/2 - 50 : h_max/2 + 50, w_max/2 - 50 : w_max/2 + 50] = img_resize
+
                 # cv2.imshow("Cropped gesture",thresh1[y:y+h, x:x+w])
                 # cv2.waitKey(0)
-                cv2.imwrite(dir_center + letters[i] + "-" + str(folder) + "-" + format(j) + ".png", black)
+                cv2.imwrite(dir_center + letters[i] + "-" + str(folder) + "-" + format(j) + ".png", img_resize)
 
             else:
                 cX, cY = 0, 0

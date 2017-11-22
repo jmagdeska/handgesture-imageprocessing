@@ -1,17 +1,27 @@
 import cv2
 import imutils
 import numpy as np
+import os
 
 w_max=400
-h_max=225
+h_max=300
 
-# letters = ["a", "b", "f", "i", "l", "m", "o", "t", "u", "z"]
-# letters = ["a", "b", "f", "l", "m", "o", "t", "u", "z"]
 letters = ["a", "b", "v", "g", "d", "gj", "e", "zh", "z", "dj", "i", "j", "k", "l", "lj", "m", "n", "nj", "o", "p", "r", "s", "t", "kj", "u", "f", "h", "c", "ch", "dz", "sh"]
 
+folder = input("Enter which dataset will be processed: ")
+
+dir_thresh = "frames_thresh/"
+dir_center = "frames_thresh_center/"
+dir_skin = "frames_skin/"
+
+if not os.path.exists(dir_thresh):
+    os.makedirs(dir_thresh)
+if not os.path.exists(dir_center):
+    os.makedirs(dir_center)
+
 for i in range(31):
-    for j in range(1,10):
-        single = cv2.imread("E:\Jana/Thesis/frames_skin/" + letters[i] + "-1-" + format(j) + '.png')
+    for j in range(1,21):
+        single = cv2.imread(dir_skin + letters[i] + "-" + str(folder) + "-" + format(j) + '.png')
         kernel = np.ones((5, 5), np.uint8)
         mor = cv2.morphologyEx(single, cv2.MORPH_OPEN, kernel)
         mor2 = cv2.dilate(mor, kernel, iterations=1)
@@ -21,9 +31,7 @@ for i in range(31):
         _, thresh1 = cv2.threshold(blurred1, 127, 255,
                                    cv2.THRESH_BINARY + cv2.THRESH_OTSU)
 
-        print("zapisuva " + str(letters[i]) + " " + str(j))
-
-        cv2.imwrite("E:\Jana/Thesis/frames_thresh/" + letters[i] + "-1-" + format(j) + ".png", thresh1)
+        cv2.imwrite(dir_thresh + letters[i] + "-" + str(folder) + "-" + format(j) + ".png", thresh1)
 
         cnts = cv2.findContours(thresh1.copy(), cv2.RETR_EXTERNAL,
                                 cv2.CHAIN_APPROX_SIMPLE)
@@ -52,10 +60,13 @@ for i in range(31):
 
                 print format(h_max/2) + " " + format(h/2) + " " + format(w_max/2) + " " + format(w/2)
 
-                black[h_max/2 - h/2 - offset_h: h_max/2 + h/2, w_max/2 - w/2 - offset_w: w_max/2 + w/2] = thresh1[y:y+h, x:x+w]
+                img_crop = thresh1[y:y + h, x:x + w]
+                img_resize = cv2.resize(img_crop, (50, 50))
+                black[h_max/2 - 25: h_max/2 + 25, w_max/2 - 25: w_max/2 + 25] = img_resize
+
                 # cv2.imshow("Cropped gesture",thresh1[y:y+h, x:x+w])
                 # cv2.waitKey(0)
-                cv2.imwrite("E:\Jana/Thesis/frames_thresh_center/" + letters[i] + "-1-" + format(j) + ".png", black)
+                cv2.imwrite(dir_center + letters[i] + "-" + str(folder) + "-" + format(j) + ".png", black)
 
             else:
                 cX, cY = 0, 0
