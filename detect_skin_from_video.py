@@ -32,7 +32,7 @@ if not os.path.exists("frames"):
 folder = input("Enter which dataset will be processed: ")
 
 dir_videos = "gesture_videos/" + str(folder) + "/"
-dir_skin = "frames_skin/" + str(folder) + "/"
+dir_skin = "frames_skin/"
 dir_frames = "frames/"
 dir_initials = "frames_initials/"
 
@@ -71,13 +71,13 @@ for l in range(31):
     print("Separate hand from each frame of letter " + letters[l])
     for i in range(1,21):
         a = cv2.imread(dir_frames + "initial_" + letters[l] + "-1-" + format(i) + ".png")
-        initial = imutils.resize(a,width=400, height=225)
+        initial = imutils.resize(a,width=400, height=300)
         blank_image = np.zeros((300,400,3), np.uint8)
-        for a in range(225):
+        for a in range(300):
             for b in range(400):
                 color_clicked = initial[a,b]
                 if color_clicked[2] < (color[2] + 40) and color_clicked[2] > (color[2] - 40) and color_clicked[1] < (color[1] + 60) and color_clicked[1] > (color[1] - 60) and color_clicked[0] < (color[0] + 80) and color_clicked[0] > (color[0] - 80) :
                     blank_image[a,b] = initial[a,b]
-        cv2.imwrite(dir_skin + letters[l] + "-1-" + format(i) + ".png", blank_image)
+        cv2.imwrite(dir_skin + letters[l] + "-" + str(folder) + "-" + format(i) + ".png", blank_image)
 
 print("Done with processing")

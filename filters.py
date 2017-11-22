@@ -11,9 +11,9 @@ letters = ["a", "b", "v", "g", "d", "gj", "e", "zh", "z", "dj", "i", "j", "k", "
 
 folder = input("Enter which dataset will be processed: ")
 
-dir_thresh = "frames_thresh_as/" + str(folder) + "/"
-dir_center = "frames_thresh_center_as/" + str(folder) + "/"
-dir_skin = "frames_skin/" + str(folder) + "/"
+dir_thresh = "frames_thresh_as/"
+dir_center = "frames_thresh_center_as/"
+dir_skin = "frames_skin/"
 
 if not os.path.exists(dir_thresh):
     os.makedirs(dir_thresh)
@@ -22,7 +22,7 @@ if not os.path.exists(dir_center):
 
 for i in range(31):
     for j in range(1,21):
-        single = cv2.imread(dir_skin + letters[i] + "-1-" + format(j) + '.png',0)
+        single = cv2.imread(dir_skin + letters[i] + "-" + str(folder) + "-" + format(j) + '.png',0)
         result = cv2.Sobel(single, cv2.CV_64F, 1, 0, ksize=5)
         result1 = cv2.Sobel(result, cv2.CV_64F, 0, 1, ksize=5)
         abs_result = np.absolute(result1)
@@ -35,7 +35,7 @@ for i in range(31):
         _, thresh1 = cv2.threshold(blurred1, 127, 255,
                                    cv2.THRESH_BINARY + cv2.THRESH_OTSU)
 
-        cv2.imwrite(dir_thresh + letters[i] + "-1-" + format(j) + ".png", thresh1)
+        cv2.imwrite(dir_thresh + letters[i] + "-" + str(folder) + "-" + format(j) + ".png", thresh1)
 
         cnts = cv2.findContours(thresh1.copy(), cv2.RETR_EXTERNAL,
                                 cv2.CHAIN_APPROX_SIMPLE)
@@ -67,7 +67,7 @@ for i in range(31):
                 black[h_max/2 - h/2 - offset_h: h_max/2 + h/2, w_max/2 - w/2 - offset_w: w_max/2 + w/2] = thresh1[y:y+h, x:x+w]
                 # cv2.imshow("Cropped gesture",thresh1[y:y+h, x:x+w])
                 # cv2.waitKey(0)
-                cv2.imwrite(dir_center + letters[i] + "-1-" + format(j) + ".png", black)
+                cv2.imwrite(dir_center + letters[i] + "-" + str(folder) + "-" + format(j) + ".png", black)
 
             else:
                 cX, cY = 0, 0
