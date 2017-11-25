@@ -61,8 +61,8 @@ for i in range(31):
                 print format(h_max/2) + " " + format(h/2) + " " + format(w_max/2) + " " + format(w/2)
 
                 img_crop = thresh1[y:y + h, x:x + w]
-                img_resize = cv2.resize(img_crop, (50, 50))
-                black[h_max/2 - 25: h_max/2 + 25, w_max/2 - 25: w_max/2 + 25] = img_resize
+                img_resize = cv2.resize(img_crop, (50, 80))
+                black[h_max/2 - 40: h_max/2 + 40, w_max/2 - 25: w_max/2 + 25] = img_resize
 
                 # cv2.imshow("Cropped gesture",thresh1[y:y+h, x:x+w])
                 # cv2.waitKey(0)
