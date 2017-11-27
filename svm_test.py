@@ -55,26 +55,26 @@ for i in range(31):
     for j in range(1, 14):
         for k in range(1, 21):
             if(k > 0 and k < 5):
-                data_train1.append(letters[i] + "-" + str(j) + "-" + str(k))
+                data_train1.append(letters[i] + "-" + str(j) + "-" + str(k) + ".png")
             elif (k > 4 and k < 9):
-                data_train2.append(letters[i] + "-" + str(j) + "-" + str(k))
+                data_train2.append(letters[i] + "-" + str(j) + "-" + str(k) + ".png")
             elif (k > 8 and k < 13):
-                data_train3.append(letters[i] + "-" + str(j) + "-" + str(k))
+                data_train3.append(letters[i] + "-" + str(j) + "-" + str(k) + ".png")
             elif (k > 12 and k < 17 ):
-                data_train4.append(letters[i] + "-" + str(j) + "-" + str(k))
+                data_train4.append(letters[i] + "-" + str(j) + "-" + str(k) + ".png")
             elif (k > 16):
-                data_train5.append(letters[i] + "-" + str(j) + "-" + str(k))
-
-for d in data_train2:
-    train1.append(d)
+                data_train5.append(letters[i] + "-" + str(j) + "-" + str(k) + ".png")
 
 for d in data_train1:
+    train1.append(d)
+
+for d in data_train2:
     train1.append(d)
 
 for d in data_train3:
     train1.append(d)
 
-for d in data_train5:
+for d in data_train4:
     train1.append(d)
 
 training_set = []
@@ -85,7 +85,7 @@ training_y = [] #-klasite odnosno bukite
 
 ######### dodeli trening Y
 
-for counter in range(0,4):
+for c in range(4):
     for i in range(31):
         for j in range(52): # od sekoja bukva 4 primeroka od 13 dataseta
             training_y.append(i)
@@ -99,52 +99,42 @@ for j in range(31):
         cross_test_y.append(j)
 
 for file in train1:
-    img = cv2.imread(dir_center + file)
+    print("File: " + file)
+    img = cv2.imread(dir_center + file, 0)
     xarr = np.squeeze(np.array(img).astype(np.float32))
     m, v = cv2.PCACompute(xarr, mean=None)
     arr = np.array(v)
     flat_arr = arr.ravel()
     training_set.append(flat_arr)
 
-for file in data_train4:
-    img = cv2.imread(dir_center + file)
+for file in data_train5:
+    print("File test: " + file)
+    img = cv2.imread(dir_center + file, 0)
     xarr = np.squeeze(np.array(img).astype(np.float32))
     m, v = cv2.PCACompute(xarr, mean=None)
     arr = np.array(v)
     flat_arr = arr.ravel()
     testing_set.append(flat_arr)
-#
-# print "len of data_train1"
-# print len(data_train1)
-# print len(training_y)
-# print "training y"
-# br = 0
-# for i in training_y:
-#     if i == 4:
-#         br = br + 1
-# print br
-#
-# print "len of data_test1"
-# print len(data_test1)
-# print len(cross_test_y)
+
+print len(training_set), len(training_y)
 
 trainData = np.float32(training_set)
 responses = np.float32(training_y)
+
 print "Done with new_listing"
 
-crossTrain = np.float32(trainData)
+# crossTrain = np.float32(trainData)
 
-model = SVM(C=50, gamma=0.018)
-model.train(crossTrain, np.array(training_y))
+model = SVM(C=10, gamma=0.018)
+model.train(trainData, np.array(training_y))
 
 #
 testData = np.float32(testing_set)
 crossTest = np.float32(testData)
 y_out = model.predict(crossTest)
-
-print data_train4
+#
 print y_out
-
+#
 total = 0
 number = 1612 #number of test examples
 
