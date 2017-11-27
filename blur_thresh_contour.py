@@ -42,7 +42,7 @@ for i in range(31):
             # compute the center of the contour
             M = cv2.moments(c)
 
-            if M["m00"] > 4000:
+            if M["m00"] > 3000:
                 cX = int(M["m10"] / M["m00"])
                 cY = int(M["m01"] / M["m00"])
 
@@ -58,7 +58,7 @@ for i in range(31):
                 if(h%2 != 0): offset_h = 1
                 if(w%2 != 0): offset_w = 1
 
-                print format(h_max/2) + " " + format(h/2) + " " + format(w_max/2) + " " + format(w/2)
+                # print format(h_max/2) + " " + format(h/2) + " " + format(w_max/2) + " " + format(w/2)
 
                 img_crop = thresh1[y:y + h, x:x + w]
                 img_resize = cv2.resize(img_crop, (50, 80))
