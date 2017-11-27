@@ -58,6 +58,7 @@ for l in range(31):
         cv2.imwrite(dir_frames + "initial_" + letters[l] + "-1-" + format(k) + ".png", frame)
         k += 1
 
+
 for l in range(31):
     print("Select skin color initial frame of letter " + letters[l])
     image_initial = cv2.imread(dir_initials + "initial_" + letters[l] + "-1.png")
@@ -65,12 +66,16 @@ for l in range(31):
     cv2.namedWindow('images')
     cv2.setMouseCallback('images', draw_circle)
     cv2.imshow("images", initial)
-    cv2.waitKey(0)
-    cv2.destroyAllWindows()
+    brP = cv2.waitKey(0) & 0xff
+    if brP == 32:  # SpaceBar key to stop
+        cv2.destroyAllWindows()
+
 
     print("Separate hand from each frame of letter " + letters[l])
     for i in range(1,21):
         a = cv2.imread(dir_frames + "initial_" + letters[l] + "-1-" + format(i) + ".png")
+        # a = cv2.imread("C:\Users\Kosara\Documents\DIPLOMA THESIS\handgesture-imageprocessing-master/dataset/frames skin renamed/"
+        #     + letters[l] + "-" + str(folder) + "-" + format(i) + ".png")
         initial = imutils.resize(a,width=400, height=300)
         blank_image = np.zeros((300,400,3), np.uint8)
         for a in range(300):
