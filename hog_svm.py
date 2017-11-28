@@ -1,7 +1,7 @@
-from sklearn.svm import SVC
 import cv2
 import numpy as np
 from skimage.feature import hog
+import random
 
 dir_center = "frames_skin/"
 
@@ -26,6 +26,14 @@ class SVM(StatModel):
 
     def predict(self, samples):
         return self.model.predict(samples)[1].ravel()
+
+def randomize(a, b):
+    # Generate the permutation index array.
+    permutation = np.random.permutation(a.shape[0])
+    # Shuffle the arrays by giving the permutation in the square brackets.
+    shuffled_a = a[permutation]
+    shuffled_b = b[permutation]
+    return shuffled_a, shuffled_b
 
 data1 =[]
 data2 =[]
@@ -69,12 +77,26 @@ for c in range(4):
         for j in range(52): # each letter 4 examples, 13 different datasets
             training_labels.append(i)
 
-cross_test_y = []
+# shuffle both arrays (data_train and training_labels) in the same order
+list1 = list(zip(data_train, training_labels))
+random.shuffle(list1)
+data_train, training_labels = zip(*list1)
+
+print "Done with random shuffle of training dataset"
+
+print data_train[:10], training_labels[:10]
+
+cross_test_labels = []
 
 for j in range(31):
     for k in range(52):  # each letter 4 examples, 13 different datasets
-        cross_test_y.append(j)
+        cross_test_labels.append(j)
 
+list2 = list(zip(data3, cross_test_labels))
+random.shuffle(list2)
+data3, cross_test_labels = zip(*list2)
+
+print "Done with random shuffle of testing dataset"
 
 for file in data_train:
     print("File: " + file)
@@ -109,7 +131,7 @@ total = 0
 number = 1612 #number of test examples
 
 for x in xrange(number):
-    if y_out[x] == cross_test_y[x]:
+    if y_out[x] == cross_test_labels[x]:
         total += 1
 
 print "Percentage is " + str((total/float(number))*100) + "%"
