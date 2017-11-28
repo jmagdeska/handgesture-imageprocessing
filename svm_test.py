@@ -1,7 +1,6 @@
 from sklearn.svm import SVC
 import cv2
 import numpy as np
-import math
 
 dir_center = "frames_thresh_center/"
 
@@ -70,12 +69,12 @@ for d in data_train1:
 
 for d in data_train2:
     train1.append(d)
-
-for d in data_train3:
-    train1.append(d)
-
-for d in data_train4:
-    train1.append(d)
+#
+# for d in data_train3:
+#     train1.append(d)
+#
+# for d in data_train4:
+#     train1.append(d)
 
 training_set = []
 testing_set = []
@@ -85,7 +84,7 @@ training_y = [] #-klasite odnosno bukite
 
 ######### dodeli trening Y
 
-for c in range(4):
+for c in range(2):
     for i in range(31):
         for j in range(52): # od sekoja bukva 4 primeroka od 13 dataseta
             training_y.append(i)
@@ -119,11 +118,11 @@ for file in data_train5:
 print len(training_set), len(training_y)
 
 trainData = np.float32(training_set)
-responses = np.float32(training_y)
+responses = np.array(training_y)
 
 print "Done with new_listing"
 
-# crossTrain = np.float32(trainData)
+crossTrain = np.float32(trainData)
 
 model = SVM(C=10, gamma=0.018)
 model.train(trainData, np.array(training_y))
@@ -134,7 +133,7 @@ crossTest = np.float32(testData)
 y_out = model.predict(crossTest)
 #
 print y_out
-#
+# #
 total = 0
 number = 1612 #number of test examples
 
