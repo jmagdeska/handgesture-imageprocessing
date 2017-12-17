@@ -2,6 +2,8 @@ import cv2
 import numpy as np
 from skimage.feature import hog
 import random
+import pickle
+from sklearn import svm
 
 dir_center = "frames_skin/"
 
@@ -84,8 +86,6 @@ data_train, training_labels = zip(*list1)
 
 print "Done with random shuffle of training dataset"
 
-print data_train[:10], training_labels[:10]
-
 cross_test_labels = []
 
 for j in range(31):
@@ -99,39 +99,48 @@ data3, cross_test_labels = zip(*list2)
 print "Done with random shuffle of testing dataset"
 
 for file in data_train:
-    print("File: " + file)
+    # print("File: " + file)
     img = cv2.imread(dir_center + file, 0)
     hist = hog(img, orientations=9, pixels_per_cell=(14, 14), cells_per_block=(1, 1), visualise=False)
     training_set.append(hist)
 
 for file in data3:
-    print("File test: " + file)
+    # print("File test: " + file)
     img = cv2.imread(dir_center + file, 0)
     hist = hog(img, orientations=9, pixels_per_cell=(14, 14), cells_per_block=(1, 1), visualise=False)
     testing_set.append(hist)
 
-print "Done with fitting data"
+print "Done with processing data"
 
 trainData = np.float32(training_set)
 testData = np.float32(testing_set)
 crossTest = np.float32(testData)
 
-model = SVM(C=50, gamma=0.006)
-model.train(trainData, np.array(training_labels))
+clf = svm.SVC(C=50, gamma=0.006)
+clf.fit(trainData, np.array(training_labels))
 
-print "Done with SVM training"
+# model = SVM(C=50, gamma=0.006)
+# model.train(trainData, np.array(training_labels))
 
-y_out = model.predict(crossTest)
+print "Done with SVM fitting"
 
-print "Done with SVM prediction"
+pickle.dump(clf, open('pickled_data', 'wb'))
 
-print y_out
-
-total = 0
-number = 1612 #number of test examples
-
-for x in xrange(number):
-    if y_out[x] == cross_test_labels[x]:
-        total += 1
-
-print "Percentage is " + str((total/float(number))*100) + "%"
+clf2 = pickle.load(open('pickled_data', 'rb'))
+result = clf2.score(crossTest, cross_test_labels)
+print(result)
+#
+# y_out = clf1.predict(crossTest)
+#
+# print "Done with SVM prediction"
+#
+# print y_out
+#
+# total = 0
+# number = 1612 #number of test examples
+#
+# for x in xrange(number):
+#     if y_out[x] == cross_test_labels[x]:
+#         total += 1
+#
+# print "Percentage is " + str((total/float(number))*100) + "%"
